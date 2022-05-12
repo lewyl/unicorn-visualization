@@ -23,3 +23,7 @@ The dashboard answers the following questions:
 - How long did the companies take to become a unicorn? How has this changed over the years?
 - Which unicorns have the highest valuation over funding?
 - Which industries are the unicorns in?
+
+etc.
+
+Answers to the above questions can be found at [Analysis.md](./Analysis.md)
